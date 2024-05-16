@@ -41,3 +41,8 @@ The Weather Forecast Prediction App is an Android application designed to provid
 2. **Enter Date**: Input the desired date in the format YYYY-MM-DD.
 3. **Fetch Data**: Click on the "Get Min and Max Temperature" button to fetch and display the weather data for the specified date.
 4. **View Results**: The app will display the minimum and maximum temperatures for the entered date. If the date is in the future, the average temperatures from the last 10 years will be shown.
+
+OR
+
+1. Locate the apk file in the repository in the following path: `app\build\outputs\apk\debug\app-debug.apk"
+2. Install the apk file in your smartphone and run the application
